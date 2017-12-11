@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="WM/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="uk">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="6dK-HL-8iI.text">
+        <source>Wallet Manager</source>
+        <target>Wallet Manager</target>
+        <note>Class = "UILabel"; text = "Wallet Manager"; ObjectID = "6dK-HL-8iI";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WM/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="uk">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="0F7-Ge-uEn.text">
+        <source>Note:</source>
+        <target>Примітка:</target>
+        <note>Class = "UILabel"; text = "Note:"; ObjectID = "0F7-Ge-uEn";</note>
+      </trans-unit>
+      <trans-unit id="1dZ-ph-v3D.normalTitle">
+        <source>History</source>
+        <target>Історія</target>
+        <note>Class = "UIButton"; normalTitle = "History"; ObjectID = "1dZ-ph-v3D";</note>
+      </trans-unit>
+      <trans-unit id="7jB-Hg-W3r.text">
+        <source>Name:</source>
+        <target>Ім'я:</target>
+        <note>Class = "UILabel"; text = "Name:"; ObjectID = "7jB-Hg-W3r";</note>
+      </trans-unit>
+      <trans-unit id="K3q-mM-7xO.text">
+        <source>Date:</source>
+        <target>Дата:</target>
+        <note>Class = "UILabel"; text = "Date:"; ObjectID = "K3q-mM-7xO";</note>
+      </trans-unit>
+      <trans-unit id="NRt-2j-zHb.normalTitle">
+        <source>Expense</source>
+        <target>Витрата</target>
+        <note>Class = "UIButton"; normalTitle = "Expense"; ObjectID = "NRt-2j-zHb";</note>
+      </trans-unit>
+      <trans-unit id="URE-MR-8XK.text">
+        <source>Subtitle</source>
+        <target>Підзаголовок</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "URE-MR-8XK";</note>
+      </trans-unit>
+      <trans-unit id="ZPz-Mk-oWp.segmentTitles[0]">
+        <source>Week</source>
+        <target>Тиждень</target>
+        <note>Class = "UISegmentedControl"; ZPz-Mk-oWp.segmentTitles[0] = "Week"; ObjectID = "ZPz-Mk-oWp";</note>
+      </trans-unit>
+      <trans-unit id="ZPz-Mk-oWp.segmentTitles[1]">
+        <source>Month</source>
+        <target>Місяць</target>
+        <note>Class = "UISegmentedControl"; ZPz-Mk-oWp.segmentTitles[1] = "Month"; ObjectID = "ZPz-Mk-oWp";</note>
+      </trans-unit>
+      <trans-unit id="ZPz-Mk-oWp.segmentTitles[2]">
+        <source>Year</source>
+        <target>Рік</target>
+        <note>Class = "UISegmentedControl"; ZPz-Mk-oWp.segmentTitles[2] = "Year"; ObjectID = "ZPz-Mk-oWp";</note>
+      </trans-unit>
+      <trans-unit id="ZlG-WJ-KJH.text">
+        <source>Amount:</source>
+        <target>Сума:</target>
+        <note>Class = "UILabel"; text = "Amount:"; ObjectID = "ZlG-WJ-KJH";</note>
+      </trans-unit>
+      <trans-unit id="g3D-Uo-fFy.text">
+        <source>Note:</source>
+        <target>Примітка:</target>
+        <note>Class = "UILabel"; text = "Note:"; ObjectID = "g3D-Uo-fFy";</note>
+      </trans-unit>
+      <trans-unit id="h6I-om-Mlr.text">
+        <source>$00,00</source>
+        <target>₴00,00</target>
+        <note>Class = "UILabel"; text = "$00,00"; ObjectID = "h6I-om-Mlr";</note>
+      </trans-unit>
+      <trans-unit id="jyu-rd-ofi.text">
+        <source>Title</source>
+        <target>Назва</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "jyu-rd-ofi";</note>
+      </trans-unit>
+      <trans-unit id="mGL-wi-yOI.text">
+        <source>Amount:</source>
+        <target>Сума:</target>
+        <note>Class = "UILabel"; text = "Amount:"; ObjectID = "mGL-wi-yOI";</note>
+      </trans-unit>
+      <trans-unit id="pM7-Cq-o7Q.text">
+        <source>Balance:</source>
+        <target>Баланс:</target>
+        <note>Class = "UILabel"; text = "Balance:"; ObjectID = "pM7-Cq-o7Q";</note>
+      </trans-unit>
+      <trans-unit id="uFI-GT-Frj.text">
+        <source>Title</source>
+        <target>Назва</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "uFI-GT-Frj";</note>
+      </trans-unit>
+      <trans-unit id="wrW-gF-ft4.text">
+        <source>Detail</source>
+        <target>Подробиці</target>
+        <note>Class = "UILabel"; text = "Detail"; ObjectID = "wrW-gF-ft4";</note>
+      </trans-unit>
+      <trans-unit id="zCG-a1-2vI.normalTitle">
+        <source>Income</source>
+        <target>Дохід</target>
+        <note>Class = "UIButton"; normalTitle = "Income"; ObjectID = "zCG-a1-2vI";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WM/Info.plist" source-language="en" datatype="plaintext" target-language="uk">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WM/Localizable.strings" source-language="en" datatype="plaintext" target-language="uk">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="$ Spent Per Day">
+        <source>$ Spent Per Day</source>
+        <target>₴ Витрачається на день</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="$ Spent Per Month">
+        <source>$ Spent Per Month</source>
+        <target>₴ Витрачається на місяць</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="$ Spent Per Year">
+        <source>$ Spent Per Year</source>
+        <target>₴ Витрачається на рік</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="$0.00">
+        <source>$0.00</source>
+        <target>₴0.00</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="+ $">
+        <source>+ $</source>
+        <target>+ ₴</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amount of Wallet">
+        <source>Amount of Wallet</source>
+        <target>Сума гаманця</target>
+        <note>TextField for amount</note>
+      </trans-unit>
+      <trans-unit id="Average: ">
+        <source>Average: </source>
+        <target>Середнє: </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Скасувати</target>
+        <note>Button Cancel in showAlert
+   Cancel button</note>
+      </trans-unit>
+      <trans-unit id="Create">
+        <source>Create</source>
+        <target>Створити</target>
+        <note>Create button</note>
+      </trans-unit>
+      <trans-unit id="Create a Wallet">
+        <source>Create a Wallet</source>
+        <target>Створити Гаманець</target>
+        <note>Title for creating</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Видалити</target>
+        <note>Button Delet in editAction</note>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <target>Редагувати</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit Description">
+        <source>Edit Description</source>
+        <target>Редагувати опис</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="History">
+        <source>History</source>
+        <target>Історія</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If this message is seen check func amountEnteredChanged">
+        <source>If this message is seen check func amountEnteredChanged</source>
+        <target>Якщо ви бачите це повідомлення, перевірте функцію amountEnteredChanged</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Must be under $1Miliard">
+        <source>Must be under $1Miliard</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Description">
+        <source>New Description</source>
+        <target>Новий опис</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Name">
+        <source>New Name</source>
+        <target>Нове Ім'я</target>
+        <note>New Name in showAlert</note>
+      </trans-unit>
+      <trans-unit id="Rename">
+        <source>Rename</source>
+        <target>Перейменувати</target>
+        <note>Rename Delet in editAction</note>
+      </trans-unit>
+      <trans-unit id="Rename Wallet">
+        <source>Rename Wallet</source>
+        <target>Перейменувати Гаманець</target>
+        <note>Title in showAlert</note>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <target>Зберегти</target>
+        <note>Button Save in showAlert</note>
+      </trans-unit>
+      <trans-unit id="Swipe to edit">
+        <source>Swipe to edit</source>
+        <target>Проведіть пальцем, щоб редагувати</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Undo">
+        <source>Undo</source>
+        <target>Скасувати</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Untitled Wallet">
+        <source>Untitled Wallet</source>
+        <target>Гаманець без імені</target>
+        <note>Name of Wallet when textField ...</note>
+      </trans-unit>
+      <trans-unit id="Wallet Name">
+        <source>Wallet Name</source>
+        <target>Ім'я Гаманця</target>
+        <note>TextField Wallet Name</note>
+      </trans-unit>
+      <trans-unit id="Wallets">
+        <source>Wallets</source>
+        <target>Гаманці</target>
+        <note>Title</note>
+      </trans-unit>
+      <trans-unit id="What's it for?">
+        <source>What's it for?</source>
+        <target>Для чого це?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You must have at least one transaction.">
+        <source>You must have at least one transaction.</source>
+        <target>Ви повинні мати хоча б одну транзакцію.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You must spend to see data">
+        <source>You must spend to see data</source>
+        <target>Ви повинні щось витратити, щоб побачити дані</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="– $">
+        <source>– $</source>
+        <target>- ₴</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
