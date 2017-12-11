@@ -1,0 +1,88 @@
+/* No comment provided by engineer. */
+"$ Spent Per Day" = "₴ Витрачається на день";
+
+/* No comment provided by engineer. */
+"$ Spent Per Month" = "₴ Витрачається на місяць";
+
+/* No comment provided by engineer. */
+"$ Spent Per Year" = "₴ Витрачається на рік";
+
+/* No comment provided by engineer. */
+"$0.00" = "₴0.00";
+
+/* No comment provided by engineer. */
+"+ $" = "+ ₴";
+
+/* TextField for amount */
+"Amount of Wallet" = "Сума гаманця";
+
+/* No comment provided by engineer. */
+"Average: " = "Середнє: ";
+
+/* Button Cancel in showAlert
+   Cancel button */
+"Cancel" = "Скасувати";
+
+/* Create button */
+"Create" = "Створити";
+
+/* Title for creating */
+"Create a Wallet" = "Створити Гаманець";
+
+/* Button Delet in editAction */
+"Delete" = "Видалити";
+
+/* No comment provided by engineer. */
+"Edit" = "Редагувати";
+
+/* No comment provided by engineer. */
+"Edit Description" = "Редагувати опис";
+
+/* No comment provided by engineer. */
+"History" = "Історія";
+
+/* No comment provided by engineer. */
+"If this message is seen check func amountEnteredChanged" = "Якщо ви бачите це повідомлення, перевірте функцію amountEnteredChanged";
+
+/* No comment provided by engineer. */
+"New Description" = "Новий опис";
+
+/* New Name in showAlert */
+"New Name" = "Нове Ім'я";
+
+/* Rename Delet in editAction */
+"Rename" = "Перейменувати";
+
+/* Title in showAlert */
+"Rename Wallet" = "Перейменувати Гаманець";
+
+/* Button Save in showAlert */
+"Save" = "Зберегти";
+
+/* No comment provided by engineer. */
+"Swipe to edit" = "Проведіть пальцем, щоб редагувати";
+
+/* No comment provided by engineer. */
+"Undo" = "Скасувати";
+
+/* Name of Wallet when textField ... */
+"Untitled Wallet" = "Гаманець без імені";
+
+/* TextField Wallet Name */
+"Wallet Name" = "Ім'я Гаманця";
+
+/* Title */
+"Wallets" = "Гаманці";
+
+/* No comment provided by engineer. */
+"What's it for?" = "Для чого це?";
+
+/* No comment provided by engineer. */
+"You must have at least one transaction." = "Ви повинні мати хоча б одну транзакцію.";
+
+/* No comment provided by engineer. */
+"You must spend to see data" = "Ви повинні щось витратити, щоб побачити дані";
+
+/* No comment provided by engineer. */
+"– $" = "- ₴";
+

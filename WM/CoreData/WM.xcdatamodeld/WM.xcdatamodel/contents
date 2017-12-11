@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13533" systemVersion="17B1002" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Application" representedClassName="Application" syncable="YES">
+        <attribute name="descriptionArray" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="historyArray" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <relationship name="contact" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Wallet" inverseName="applicationContact" inverseEntity="Wallet" syncable="YES"/>
+    </entity>
+    <entity name="Expenses" representedClassName="Expenses" syncable="YES">
+        <attribute name="amountExpensesOnDate" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="totalAmountExpenses" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="contact" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Wallet" inverseName="expensesContact" inverseEntity="Wallet" syncable="YES"/>
+    </entity>
+    <entity name="Incomes" representedClassName="Incomes" syncable="YES">
+        <attribute name="totalAmountIncomes" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="contact" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Wallet" inverseName="incomesContact" inverseEntity="Wallet" syncable="YES"/>
+    </entity>
+    <entity name="Wallet" representedClassName="Wallet" syncable="YES">
+        <attribute name="balance" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalWalletAmount" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="applicationContact" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Application" inverseName="contact" inverseEntity="Application" syncable="YES"/>
+        <relationship name="expensesContact" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Expenses" inverseName="contact" inverseEntity="Expenses" syncable="YES"/>
+        <relationship name="incomesContact" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Incomes" inverseName="contact" inverseEntity="Incomes" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Application" positionX="144" positionY="-234" width="128" height="88"/>
+        <element name="Expenses" positionX="-218" positionY="-232" width="128" height="88"/>
+        <element name="Wallet" positionX="-20" positionY="-205" width="128" height="133"/>
+        <element name="Incomes" positionX="142" positionY="-72" width="128" height="73"/>
+    </elements>
+</model>

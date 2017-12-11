@@ -1,0 +1,54 @@
+/* Class = "UILabel"; text = "Note:"; ObjectID = "0F7-Ge-uEn"; */
+"0F7-Ge-uEn.text" = "Примітка:";
+
+/* Class = "UIButton"; normalTitle = "History"; ObjectID = "1dZ-ph-v3D"; */
+"1dZ-ph-v3D.normalTitle" = "Історія";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "7jB-Hg-W3r"; */
+"7jB-Hg-W3r.text" = "Ім'я:";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "K3q-mM-7xO"; */
+"K3q-mM-7xO.text" = "Дата:";
+
+/* Class = "UIButton"; normalTitle = "Expense"; ObjectID = "NRt-2j-zHb"; */
+"NRt-2j-zHb.normalTitle" = "Витрата";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "URE-MR-8XK"; */
+"URE-MR-8XK.text" = "Підзаголовок";
+
+/* Class = "UISegmentedControl"; ZPz-Mk-oWp.segmentTitles[0] = "Week"; ObjectID = "ZPz-Mk-oWp"; */
+"ZPz-Mk-oWp.segmentTitles[0]" = "Тиждень";
+
+/* Class = "UISegmentedControl"; ZPz-Mk-oWp.segmentTitles[1] = "Month"; ObjectID = "ZPz-Mk-oWp"; */
+"ZPz-Mk-oWp.segmentTitles[1]" = "Місяць";
+
+/* Class = "UISegmentedControl"; ZPz-Mk-oWp.segmentTitles[2] = "Year"; ObjectID = "ZPz-Mk-oWp"; */
+"ZPz-Mk-oWp.segmentTitles[2]" = "Рік";
+
+/* Class = "UILabel"; text = "Amount:"; ObjectID = "ZlG-WJ-KJH"; */
+"ZlG-WJ-KJH.text" = "Сума:";
+
+/* Class = "UILabel"; text = "Note:"; ObjectID = "g3D-Uo-fFy"; */
+"g3D-Uo-fFy.text" = "Примітка:";
+
+/* Class = "UILabel"; text = "$00,00"; ObjectID = "h6I-om-Mlr"; */
+"h6I-om-Mlr.text" = "₴00,00";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jyu-rd-ofi"; */
+"jyu-rd-ofi.text" = "Назва";
+
+/* Class = "UILabel"; text = "Amount:"; ObjectID = "mGL-wi-yOI"; */
+"mGL-wi-yOI.text" = "Сума:";
+
+/* Class = "UILabel"; text = "Balance:"; ObjectID = "pM7-Cq-o7Q"; */
+"pM7-Cq-o7Q.text" = "Баланс:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uFI-GT-Frj"; */
+"uFI-GT-Frj.text" = "Назва";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "wrW-gF-ft4"; */
+"wrW-gF-ft4.text" = "Подробиці";
+
+/* Class = "UIButton"; normalTitle = "Income"; ObjectID = "zCG-a1-2vI"; */
+"zCG-a1-2vI.normalTitle" = "Дохід";
+
